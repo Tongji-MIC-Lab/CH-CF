@@ -42,13 +42,13 @@ Since the adaptive partitioner and dynamic scheduler both make decisions based o
 
 Please cite the following paper when using TBC:
 
-Hanli Wang, Bo Xiao, Lei Wang, Fengkuangtian Zhu, Yu-Gang Jiang, and Jun Wu
-CHCF: A Cloud-based Heterogeneous Computing Framework for Large-Scale Image Retrieval
-*IEEE Transactions on Circuits and Systems for Video Technology,* vol. 25, no. 12, pp. 1900-1913, Dec. 2015.
+Hanli Wang, Bo Xiao, Lei Wang, Fengkuangtian Zhu, Yu-Gang Jiang, and Jun Wu, CHCF: A Cloud-based Heterogeneous Computing Framework for Large-Scale Image Retrieval, *IEEE Transactions on Circuits and Systems for Video Technology,* vol. 25, no. 12, pp. 1900-1913, Dec. 2015.
 
 ### References:
 
 [1] NVIDIA Corporation, NVIDIA Developer Zone, https://developer.nvidia.com/cuda-zone
+
 [2] J. Sivic and A. Zisserman, “Video Google: A Text Retrieval Approach to Object Matching in Videos,” in Proc. ICCV’03, Oct. 2003, pp. 1470-1477.
+
 [3] O. Beaumont, A. Legrand, L. Marchal, and Y. Robert, “Assessing the Impact and Limits of Steady-State Scheduling for Mixed Task and Data Parallelism on Heterogeneous Platforms,” in Proc. ISPDC’04, Jul. 2004, pp. 296-302.
 
