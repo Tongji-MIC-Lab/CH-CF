@@ -51,4 +51,3 @@ Hanli Wang, Bo Xiao, Lei Wang, Fengkuangtian Zhu, Yu-Gang Jiang, and Jun Wu, CHC
 [2] J. Sivic and A. Zisserman, “Video Google: A Text Retrieval Approach to Object Matching in Videos,” in Proc. ICCV’03, Oct. 2003, pp. 1470-1477.
 
 [3] O. Beaumont, A. Legrand, L. Marchal, and Y. Robert, “Assessing the Impact and Limits of Steady-State Scheduling for Mixed Task and Data Parallelism on Heterogeneous Platforms,” in Proc. ISPDC’04, Jul. 2004, pp. 296-302.
-
